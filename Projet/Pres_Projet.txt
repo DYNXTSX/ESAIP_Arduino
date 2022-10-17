@@ -1,0 +1,13 @@
+Présentation du projet :
+========================
+Notre projet est une serre automatisée ! Plusieurs fonctionnalité
+
+	> Mode surveillance (pour activer ou non l'élice si degrés > à notre marge. Activable avec la télécommande)
+	> Ecran qui affiche la température, l'intensité lumineuse et l'heure
+	> Signal sonor si degrés trop haut
+	> Elice qu'on active si degrés trop haut ou sur plage horraire
+	> Réglage à la télécommande
+
+
+
+
